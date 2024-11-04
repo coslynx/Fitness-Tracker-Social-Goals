@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Prisma generated client and migrations
+prisma/client/
+prisma/migrations/
+
+# Test results and coverage reports
+coverage/
+
+# Compiled JavaScript and TypeScript files
+*.js
+*.ts
+*.jsx
+*.tsx
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Build artifacts
+dist/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment variables
+.env.local
+.env.development
+.env.production
+
+# Security-sensitive files
+secrets.json
+api_keys.json
+private_key.pem
